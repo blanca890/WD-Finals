@@ -132,3 +132,25 @@ a:hover{
         transition: 0.3s
     }
 }
+
+.colored-btn{
+    padding: 8px 20px;
+    border: 2px solid var(--primary-color);
+    font-size: 14px;
+    line-height: 1.5;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    transition: ease all 0.3s;
+    display:inline-block;
+    background-color: var(--primary-color);
+    color: #fff;
+    box-shadow: 6px 6px 0 var(--dark-color);
+}
+
+.colored-btn:hover{
+    background-color: #fff;
+    color: var(--primary-color);
+    box-shadow: 6px 6px 0 var(--primary-color);
+}
