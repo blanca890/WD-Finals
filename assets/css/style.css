@@ -154,3 +154,11 @@ a:hover{
     color: var(--primary-color);
     box-shadow: 6px 6px 0 var(--primary-color);
 }
+
+.bg-gray{
+    background-color: rgba(254,196,72,0.1);
+}
+
+.bg-dark {
+    background-color: var(--dark-color) !important;
+}
