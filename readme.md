@@ -113,7 +113,7 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Video tutorial |  Personal Portfolio Website using HTML, CSS, JavaScript & Bootstrap 5 | https://www.youtube.com/watch?v=cZj0j7rCcek&t=228s |
+| Inpiration design for hero and header |  Personal Portfolio Website using HTML, CSS, JavaScript & Bootstrap 5 for  | https://www.youtube.com/watch?v=cZj0j7rCcek&t=228s |
 | Boxicon | For using icons | https://boxicons.com/?query=dr |
 | Freepik | Free copyright high quality pictures | https://www.freepik.com/search?format=search&last_filter=query&last_value=person&query=person&selection=1&type=vector|
 | Typed animation | For using type animation | https://github.com/mattboldt/typed.js|
