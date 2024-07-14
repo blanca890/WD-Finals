@@ -64,7 +64,7 @@ This final project for my web design course is a comprehensive website that demo
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
+- MultiPage Website
 - Bootstrap
 - Home Page, About Me Page, Activity Page, Contact, Credits
 
