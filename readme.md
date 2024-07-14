@@ -9,7 +9,9 @@
     <img src="./assets/img/LOGO.jpg" alt="GB" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Personal Portfolio</h3>
+  <h3 align="center">Personal Website v.2: A Showcase of Design and Functionality
+
+</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
